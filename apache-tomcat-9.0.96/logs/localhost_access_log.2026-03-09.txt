@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [09/Mar/2026:00:15:08 +0530] "GET /CampusConnect/login.jsp HTTP/1.1" 200 3255
+0:0:0:0:0:0:0:1 - - [09/Mar/2026:00:15:08 +0530] "GET /CampusConnect/js/script.js HTTP/1.1" 200 13495
+0:0:0:0:0:0:0:1 - - [09/Mar/2026:00:15:08 +0530] "GET /CampusConnect/css/style.css HTTP/1.1" 200 27400
+0:0:0:0:0:0:0:1 - - [09/Mar/2026:00:15:27 +0530] "POST /CampusConnect/login HTTP/1.1" 200 3464

@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+build/
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Package files
+node_modules/
+
+# Maven/Gradle
+target/
+.gradle/
+
+# Tomcat
+work/
+logs/

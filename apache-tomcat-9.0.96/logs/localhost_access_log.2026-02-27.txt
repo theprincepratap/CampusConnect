@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [27/Feb/2026:00:47:57 +0530] "POST /CampusConnect/login HTTP/1.1" 200 3460
+0:0:0:0:0:0:0:1 - - [27/Feb/2026:00:47:57 +0530] "GET /CampusConnect/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Feb/2026:00:48:02 +0530] "GET /CampusConnect/register HTTP/1.1" 200 10456
+0:0:0:0:0:0:0:1 - - [27/Feb/2026:00:48:43 +0530] "POST /CampusConnect/register HTTP/1.1" 200 10714

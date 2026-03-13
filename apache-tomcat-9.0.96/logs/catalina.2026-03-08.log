@@ -1,0 +1,47 @@
+08-Mar-2026 21:04:04.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.96
+08-Mar-2026 21:04:04.993 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2024 19:44:30 UTC
+08-Mar-2026 21:04:04.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.96.0
+08-Mar-2026 21:04:04.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+08-Mar-2026 21:04:04.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Mar-2026 21:04:04.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Mar-2026 21:04:04.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-25.0.2
+08-Mar-2026 21:04:05.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           25.0.2+10-LTS-69
+08-Mar-2026 21:04:05.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Mar-2026 21:04:05.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96
+08-Mar-2026 21:04:05.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96
+08-Mar-2026 21:04:05.024 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Mar-2026 21:04:05.025 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Mar-2026 21:04:05.026 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Mar-2026 21:04:05.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Mar-2026 21:04:05.027 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Mar-2026 21:04:05.028 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=d:/VIT - PROJECT/CompusConnect/apache-tomcat-9.0.96\conf\logging.properties
+08-Mar-2026 21:04:05.029 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Mar-2026 21:04:05.030 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Mar-2026 21:04:05.031 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Mar-2026 21:04:05.032 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Mar-2026 21:04:05.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=d:/VIT - PROJECT/CompusConnect/apache-tomcat-9.0.96
+08-Mar-2026 21:04:05.033 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=d:/VIT - PROJECT/CompusConnect/apache-tomcat-9.0.96
+08-Mar-2026 21:04:05.034 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=d:/VIT - PROJECT/CompusConnect/apache-tomcat-9.0.96\temp
+08-Mar-2026 21:04:05.245 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+08-Mar-2026 21:04:05.246 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+08-Mar-2026 21:04:05.246 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+08-Mar-2026 21:04:05.293 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+08-Mar-2026 21:04:06.062 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+08-Mar-2026 21:04:06.128 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1601] milliseconds
+08-Mar-2026 21:04:06.255 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Mar-2026 21:04:06.256 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.96]
+08-Mar-2026 21:04:06.280 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\CampusConnect]
+08-Mar-2026 21:04:08.375 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Mar-2026 21:04:08.585 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\CampusConnect] has finished in [2,300] ms
+08-Mar-2026 21:04:08.586 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\docs]
+08-Mar-2026 21:04:08.665 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\docs] has finished in [79] ms
+08-Mar-2026 21:04:08.666 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\examples]
+08-Mar-2026 21:04:10.292 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\examples] has finished in [1,625] ms
+08-Mar-2026 21:04:10.293 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\host-manager]
+08-Mar-2026 21:04:10.388 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\host-manager] has finished in [95] ms
+08-Mar-2026 21:04:10.389 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\manager]
+08-Mar-2026 21:04:10.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\manager] has finished in [71] ms
+08-Mar-2026 21:04:10.461 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\ROOT]
+08-Mar-2026 21:04:10.527 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\VIT - PROJECT\CompusConnect\apache-tomcat-9.0.96\webapps\ROOT] has finished in [66] ms
+08-Mar-2026 21:04:10.536 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+08-Mar-2026 21:04:10.602 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4469] milliseconds
